@@ -36,7 +36,7 @@ ShopList adalah aplikasi katalog produk fashion mini yang dibangun menggunakan R
 |---|---|---|
 | ![SS](./assets/images/search.jpeg) | ![SS](./assets/images/empty.jpeg) | ![SS](./assets/images/popup.jpeg) |
 
-
+ 
 ## Struktur Folder
 
 ```
