@@ -20,10 +20,10 @@ ShopList adalah aplikasi katalog produk fashion mini yang dibangun menggunakan R
 - [x] **R6** — Pull-to-Refresh menggunakan props `onRefresh` & `refreshing` bawaan FlatList
 
 ### Fitur Bonus (E1–E4)
-- [x] **E1 (+10)** — Filter Kategori: chip button horizontal (Semua, Pakaian, Sepatu, Aksesoris)
-- [x] **E2 (+10)** — Toggle List/Grid View: tombol toggle di header, menggunakan `numColumns`
-- [x] **E3 (+5)**  — SectionList Mode: tampilan produk dikelompokkan per kategori
-- [x] **E4 (+5)**  — Sort Produk: Relevan / Harga Terendah / Harga Tertinggi / Rating Tertinggi
+- [x] **E1** — Filter Kategori: chip button horizontal (Semua, Pakaian, Sepatu, Aksesoris)
+- [x] **E2** — Toggle List/Grid View: tombol toggle di header, menggunakan `numColumns`
+- [x] **E3**  — SectionList Mode: tampilan produk dikelompokkan per kategori
+- [x] **E4**  — Sort Produk: Relevan / Harga Terendah / Harga Tertinggi / Rating Tertinggi
 
 
 ## Screenshot
@@ -52,7 +52,7 @@ ShopList-App/
 
 ## Cara Menjalankan
 
-1. Clone repo   : `git clone [https://github.com/fariidd04/pemmobile-p06-farid.git]`
+1. Clone repo   : `git clone https://github.com/fariidd04/pemmobile-p06-farid.git`
 2. Install deps : `npm install`
 3. Jalankan     : `npx expo start`
 4. Scan QR Code dengan **Expo Go** di HP kamu
