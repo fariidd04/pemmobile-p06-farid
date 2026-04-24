@@ -2,8 +2,8 @@
 
 ## Nama & NIM
 
-- Nama: [Muhammad Faried Permana]
-- NIM:  [243303621239]
+- Nama  :   [Muhammad Faried Permana]
+- NIM   :   [243303621239]
 
 ## Deskripsi Aplikasi
 
@@ -28,19 +28,19 @@ ShopList adalah aplikasi katalog produk fashion mini yang dibangun menggunakan R
 ## Screenshot
 
 ### Tampilan Utama (List Produk)
-[(./assets/images/list.jpg)]
+(./assets/images/list.jpg)
 
 ### Tampilan Grid View
-[(./assets/images/grid.jpg)]
+(./assets/images/grid.jpg)
 
 ### Tampilan SectionList
-[(./assets/images/section.jpg)]
+(./assets/images/section.jpg)
 
 ### Tampilan Search — saat ada hasil
-[(./assets/images/search.jpg)]
+(./assets/images/search.jpg)
 
 ### Tampilan Empty State — saat tidak ada hasil
-[(./assets/images/empty.jpg)]
+(./assets/images/empty.jpg)
 
 ## Struktur Folder
 
