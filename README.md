@@ -71,7 +71,7 @@ ShopList-App/
 - `useMemo` digunakan untuk mengoptimasi filter+sort agar tidak recalculate tiap render ✅
 - `RefreshControl` dipasang di FlatList maupun SectionList ✅
 
-## 🔗 Link Demo
+## 🔗 Live Demo
 
 - [Expo Snack](https://snack.expo.dev/@fariid.dd/flatlist)
 
