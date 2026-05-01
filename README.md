@@ -70,3 +70,9 @@ ShopList-App/
 - `numColumns` diubah dinamis saat toggle grid/list, dengan `key` prop untuk force re-render ✅
 - `useMemo` digunakan untuk mengoptimasi filter+sort agar tidak recalculate tiap render ✅
 - `RefreshControl` dipasang di FlatList maupun SectionList ✅
+
+## 🔗 Link Demo
+
+- [Expo Snack](https://snack.expo.dev/@fariid.dd/flatlist)
+
+---
