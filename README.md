@@ -2,8 +2,8 @@
 
 ## Nama & NIM
 
-- Nama  :   [Muhammad Faried Permana]
-- NIM   :   [243303621239]
+- Nama  :   Muhammad Faried Permana
+- NIM   :   243303621239
 
 ## Deskripsi Aplikasi
 
